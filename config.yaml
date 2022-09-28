@@ -1,0 +1,8 @@
+profile:
+  account: ""
+  cart: ""
+http:
+  #腾讯课堂cookie
+  cookie: ''
+  bkn: 406332881 #暂时不能修改
+  t: 0.5956 #暂时不能修改
