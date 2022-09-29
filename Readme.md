@@ -28,6 +28,7 @@ document.cookie
 
 ## 今天cart
 ```
+# 2022-09-30
 account: 123456
-cart: 012ca5568c8f0f3226d4425f1a65cea9f0253747ef2f50cd25d2590a815ac35a
+cart: 885afbb4ec2c8b067c195cf16d38b9df295e6e8ae6a03e45f0536e811d5a4f3c
 ```
